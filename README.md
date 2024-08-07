@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cyber-Sec Enthusiastic<br>CS Major Student
+Tech Enthusiast | Backend Developer in the Making<br>CS Major Student
 
 
 # 💻 Tech Stack:
