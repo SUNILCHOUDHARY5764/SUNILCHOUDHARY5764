@@ -24,11 +24,6 @@ Feel free to reach me.
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java,javascript,python,solidity&theme=dark)](https://skillicons.dev)
 
-### 🛠️ Projects
-
-- [Project 1: SpendZ Flutter App](https://github.com/SUNILCHOUDHARY5764/SpendZ)
-- [Project 2: NFT Bridge](https://github.com/SUNILCHOUDHARY5764/POLYGON-NFT-BRIDGE)
-
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=SUNILCHOUDHARY5764&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUNILCHOUDHARY5764&hide_progress=true&theme=dark)
