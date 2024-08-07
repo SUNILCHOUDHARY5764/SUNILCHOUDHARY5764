@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tech Enthusiast | Backend Developer in the Making<br>CS Major Student
+Tech Enthusiast | Backend Developer<br>CS Major Student
 
 
 # 💻 Tech Stack:
